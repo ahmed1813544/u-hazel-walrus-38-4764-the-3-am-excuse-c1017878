@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
 """The 3 AM Excuse — a hardware wallet refuses to sign at 3 AM.
 
 Stdlib only. Writes one single-line excuse to
